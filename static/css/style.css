@@ -92,7 +92,7 @@ html, body{
 }
 
 section#inicio {
-    background-image: url("./images/bannerPortifolio.png");
+    background-image: url("./images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -303,4 +303,4 @@ i.menu-mobile {
   }
   
   .container-login100{
-    background-image: url(../images/bannerPortifolio.png;)}
+    background-image: url(../images/banner.jpg)}
